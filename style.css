@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: white;
+}
+#parent{
+    letter-spacing: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+#One{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Two{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Three{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Four{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Five{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Six{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Seven{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Eight{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Nine{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+#Ten{
+    border-bottom: 20px solid rgb(39, 237, 39);
+}
+
+
